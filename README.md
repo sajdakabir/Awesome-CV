@@ -125,6 +125,6 @@ Good luck!
 - [OJFord](https://github.com/OJFord)
 
 
-## See Also
+
 
 * [Awesome Identity](https://github.com/posquit0/hugo-awesome-identity) - A single-page Hugo theme to introduce yourself.
